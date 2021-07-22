@@ -1,0 +1,11 @@
+.product {
+  width: 225px;
+  padding: 10px;
+  color: black;
+  background-color: khaki;
+  margin: 30px;
+  cursor: pointer;
+  border: 3px solid black;
+}
+
+
